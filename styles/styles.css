@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+span{
+    color: green;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+
+div{
+    height: 500px;
+    width: 600px;
+}
